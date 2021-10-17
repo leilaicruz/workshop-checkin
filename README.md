@@ -1,2 +1,2 @@
 # workshop-check-in
-Software carpentry check in session for Git
+Check in repor for the session on Git

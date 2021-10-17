@@ -1,4 +1,4 @@
-# Name & Last Name
+# Nickname
 
 
 ## Likes
@@ -6,5 +6,5 @@
 
 
 ## Dislikes
-* [type one thing that you do not like]
+* [type one thing that you don't like]
 
