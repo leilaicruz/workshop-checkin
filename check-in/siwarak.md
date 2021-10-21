@@ -2,9 +2,9 @@
 
 
 ## Likes
-* [Running]
+* Running
 
 
 ## Dislikes
-* [:(]
+* :(
 
