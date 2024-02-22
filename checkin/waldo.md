@@ -2,10 +2,9 @@
 
 ## University
 
-* <item>
-
+* WUR
 ## Field of study 
 
-* <item>
+* Food and Safety
 
 #waldo de boer
