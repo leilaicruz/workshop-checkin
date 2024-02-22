@@ -1,9 +1,9 @@
 # Checking-in
 
-## Things that I like
+## University
 
 * <item>
 
-## Things that I dislike
+## Field of study 
 
 * <item>
