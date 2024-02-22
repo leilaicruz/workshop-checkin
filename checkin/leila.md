@@ -7,3 +7,4 @@
 ## Field of study 
 
 * Electrical engineering
+* EV charging management 
