@@ -7,3 +7,4 @@
 ## Field of study 
 
 * Data Science
+* Business and Entrepreneurship
