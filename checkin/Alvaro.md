@@ -2,9 +2,9 @@
 
 ## University
 
-* WUR
+* TU Delft
+
 ## Field of study 
 
-* Food and Safety
+* Electric Vehicles Charging
 
-#waldo de boer
