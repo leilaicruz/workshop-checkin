@@ -7,3 +7,4 @@
 ## Field of study 
 
 * Biomedical Engineering
+* Cardiac Biomechanics
