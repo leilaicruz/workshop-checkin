@@ -2,11 +2,9 @@
 
 ## University
 
-* TU Delft
+* TU Delft/ESP
 
 ## Field of study 
 
-
-
-
 * Power Electronics
+* MMC
