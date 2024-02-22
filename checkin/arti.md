@@ -2,8 +2,9 @@
 
 ## University
 
-TU Delft
+TU Delft/TNW/BN
 
 ## Field of study 
 
 Bionanoscience
+Super resolution microscopy
