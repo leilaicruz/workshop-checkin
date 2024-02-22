@@ -1,8 +1,8 @@
-# Checking-in
+Checking-in
 
 ## University
 
-* <Wageningen University & Research) 
+* Wageningen University & Research 
 
 ## Field of study 
 
