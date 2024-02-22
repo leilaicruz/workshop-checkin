@@ -2,8 +2,9 @@
 
 ## University
 
-* UT
+* UT/BMS
 
 ## Field of study 
 
 * maritime traffic
+* Ship behavior prediction
