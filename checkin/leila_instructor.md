@@ -2,8 +2,9 @@
 
 ## University
 
-* TU Delft
+* TU Delft/4TU.ResearchData
 
 ## Field of study 
 
-* Biophysics 
+* Biophysics
+* Genetic interaction networks  
