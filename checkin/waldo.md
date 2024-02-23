@@ -2,10 +2,10 @@
 
 ## University
 
-* WUR
+* WUR, Wageningen
 ## Field of study 
 
 * Food and Safety
-Statistics
+* Statistics
 
 #waldo de boer
