@@ -1,9 +1,8 @@
 # Nickname
 
 
-## Likes
-* [type one thing you like, don't focus on food only]
+## What is your PhD field
 
 
-## Dislikes
-* [type one thing that you don't like]
+## What would be your ideal job (in an ideal world/take a chance to dream)
+
