@@ -1,0 +1,8 @@
+# Nickname
+
+Bons
+## What is your field
+Buildings? software / salamanders
+
+## What would be your ideal job (in an ideal world/take a chance to dream)
+im there already :)
